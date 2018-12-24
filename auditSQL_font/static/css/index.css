@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+}
+/*.el-container {*/
+  /*height: inherit;*/
+/*}*/
+body {
+  height: inherit;
+  background-color: #fff;
+  margin: 0;
+  font-weight: 500;
+  font-family:  "Trebuchet MS", Arial, "Lucida Grande", Verdana, Lucida, Helvetica, sans-serif;
+}
+ul, li {
+  list-style-type:none;
+}
+a {
+  text-decoration:none;
+}
