@@ -39,7 +39,7 @@ mysql-replication==0.18
 mysqlclient==1.3.13
 openpyxl==2.5.8
 paramiko==2.4.1
-Pillow==5.2.0
+Pillow==8.3.2
 psutil==5.4.7
 pyasn1==0.4.4
 pyasn1-modules==0.2.2
